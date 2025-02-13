@@ -1,6 +1,6 @@
 # About This Repository
 
-Welcome to my personal website repository! This site is built using the **[Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy)** and serves as a platform to showcase my academic journey, research interests, and mathematical explorations.
+Welcome to my personal website repository! This site is built using the **[Jekyll TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)** and serves as a platform to showcase my academic journey, research interests, and mathematical explorations.
 
 ## What You'll Find Here
 - **About Me:** A brief introduction to my background, academic interests, and research experiences.
